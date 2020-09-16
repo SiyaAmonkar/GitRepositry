@@ -1,4 +1,5 @@
 To work on Cr1:PAYMENT GATEWAY
 
-Changed to check push
-Change to test pull made by teammate for Wi6
+Change ->to check push
+Change ->to test pull made by teammate for Wi6
+Change -. to test rebase with conflict local master and remote master is by teammate for WI7 
