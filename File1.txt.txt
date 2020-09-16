@@ -1,10 +1,12 @@
 hello world
 
 
-Change 1 -> Login feature added
+Change 1: -> Login feature added
 
-Change 2 -> Logout feature added
+Change 2: -> Logout feature added
 
-Change 3 -> Enhancement of login feature
+Change 3: -> Enhancement of login feature
 
 Change 4 -> Bug1 fix
+
+Change 5-> Bug2 fix
